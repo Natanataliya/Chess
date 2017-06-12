@@ -1,0 +1,80 @@
+*{
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+.board {
+	width: 600px;
+	height: 600px;
+	background: white;
+	position: relative;
+	
+}
+.row {
+	width: 200px;
+	height: 200px;
+	background: #850000;
+	float: left;
+	position: absolute;
+
+}
+.image1 {
+	float: right;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 0;
+	position: absolute;
+	}
+
+
+	.row2 {
+	width: 200px;
+	height: 200px;
+	background: #850000;
+	float: right;
+	margin-left: 400px;
+	position: absolute;
+}
+.image2 {
+	float: right;
+	margin-right: 400px;
+	margin-top: 200px;
+	float: left;
+	position: absolute;
+	}
+.row3 {
+	width: 200px;
+	height: 200px;
+	background: #850000;
+	float: right;
+	margin-top: 200px;
+	margin-left: 200px;
+	margin-right: 200px;
+	position: absolute;
+}
+.row4 {
+	width: 200px;
+	height: 200px;
+	background: #850000;
+	float: left;
+	margin-top: 400px;
+	margin-right: 400px;
+	position: absolute;
+}
+.image3 {
+	margin-right: 200px;
+	margin-left: 200px;
+	margin-top: 400px;
+	float: right;
+	position: absolute;
+}
+.row5 {
+	width: 200px;
+	height: 200px;
+	background: #850000;
+	float: right;
+	margin-top: 400px;
+	margin-left: 400px;
+	
+}
+
